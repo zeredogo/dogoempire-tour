@@ -56,6 +56,7 @@ function App() {
   
     <main>
       <Tours tours={tours} removeTour={removeTour}/>
+      <p className="footer"><small>Dogo Empire &copy; 2022</small></p>
     </main>
   );
 }
