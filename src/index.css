@@ -227,3 +227,11 @@ main {
   border-radius: var(--radius);
 }
 
+.footer{
+  text-align: center;
+  border: none;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 0;
+
+}
